@@ -1,0 +1,171 @@
+{
+  "status": {
+    "code": 10000,
+    "description": "Ok",
+    "req_id": "e52f9e0bd907429d8e98b1a497a107f9"
+  },
+  "outputs": [
+    {
+      "id": "8fab9960574f45cfa22a6acdff3a6b2e",
+      "status": {
+        "code": 10000,
+        "description": "Ok"
+      },
+      "created_at": "2019-11-07T00:47:40.093360346Z",
+      "model": {
+        "id": "bd367be194cf45149e75f01d59f77ba7",
+        "name": "food-items-v1.0",
+        "created_at": "2016-09-17T22:18:59.955626Z",
+        "app_id": "main",
+        "output_info": {
+          "message": "Show output_info with: GET /models/{model_id}/output_info",
+          "type": "concept",
+          "type_ext": "concept"
+        },
+        "model_version": {
+          "id": "dfebc169854e429086aceb8368662641",
+          "created_at": "2016-09-17T22:18:59.955626Z",
+          "status": {
+            "code": 21100,
+            "description": "Model is trained and ready"
+          },
+          "worker_id": "a0966e7403e8488fb9f23b17517be638"
+        },
+        "display_name": "Food"
+      },
+      "input": {
+        "id": "fcf80d999df24e32b3b11b6436ec3097",
+        "data": {
+          "image": {
+            "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/orig/d4753483d87644d6a51239ec20a5510f/15cd3e45e363c96415ce522a271f191c",
+            "base64": "dHJ1ZQ=="
+          }
+        }
+      },
+      "data": {
+        "concepts": [
+          {
+            "id": "ai_J3zjXXZX",
+            "name": "fruit salad",
+            "value": 0.9983019,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_JXCD9lx9",
+            "name": "strawberry",
+            "value": 0.9965596,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_JQV7LmzG",
+            "name": "berry",
+            "value": 0.9932548,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_0wh0dJkQ",
+            "name": "sweet",
+            "value": 0.99007237,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_Mb9BBsFw",
+            "name": "melon",
+            "value": 0.9658393,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_lVFxwhCj",
+            "name": "blueberry",
+            "value": 0.93517363,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_H2d8CVB7",
+            "name": "salad",
+            "value": 0.9245368,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_rgNHsKDf",
+            "name": "watermelon",
+            "value": 0.8736671,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_GNdVB8DV",
+            "name": "banana",
+            "value": 0.8561796,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_42RH6vqD",
+            "name": "pineapple",
+            "value": 0.8342787,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_ht2pkJrs",
+            "name": "grape",
+            "value": 0.8305194,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_2TfRbKFW",
+            "name": "apple",
+            "value": 0.8247062,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_q6mkfGGB",
+            "name": "platter",
+            "value": 0.7856387,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_v65hxxVH",
+            "name": "raspberry",
+            "value": 0.745429,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_4pzSWRHh",
+            "name": "peach",
+            "value": 0.65179527,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_53wgdjQM",
+            "name": "candy",
+            "value": 0.5672419,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_9SlXpDqd",
+            "name": "grapefruit",
+            "value": 0.48854592,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_M3JQG4Hq",
+            "name": "cantaloupe",
+            "value": 0.46770874,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_bM3smwdS",
+            "name": "dessert",
+            "value": 0.39093933,
+            "app_id": "main"
+          },
+          {
+            "id": "ai_pXR6FfsM",
+            "name": "blackberry",
+            "value": 0.3467198,
+            "app_id": "main"
+          }
+        ]
+      }
+    }
+  ]
+}

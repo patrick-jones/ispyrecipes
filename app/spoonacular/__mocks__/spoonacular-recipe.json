@@ -1,0 +1,459 @@
+{
+  "vegetarian": true,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 1,
+  "gaps": "no",
+  "lowFodmap": false,
+  "ketogenic": false,
+  "whole30": false,
+  "preparationMinutes": 5,
+  "cookingMinutes": 0,
+  "sourceUrl": "https://ikneadtoeat.com/honey-pineapple-rainbow-fruit-salad/",
+  "spoonacularSourceUrl": "https://spoonacular.com/honey-pineapple-rainbow-fruit-salad-876469",
+  "aggregateLikes": 0,
+  "spoonacularScore": 69,
+  "healthScore": 29,
+  "creditsText": "I Knead to Eat",
+  "sourceName": "I Knead to Eat",
+  "pricePerServing": 201.15,
+  "extendedIngredients": [
+    {
+      "id": 9273,
+      "aisle": "Beverages",
+      "image": "pineapple-juice.jpg",
+      "consitency": "liquid",
+      "name": "pineapple juice",
+      "original": "1/2 cup pineapple juice",
+      "originalString": "1/2 cup pineapple juice",
+      "originalName": "pineapple juice",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 19296,
+      "aisle": "Nut butters, Jams, and Honey;Health Foods",
+      "image": "honey.png",
+      "consitency": "liquid",
+      "name": "honey",
+      "original": "1 tablespoon honey",
+      "originalString": "1 tablespoon honey",
+      "originalName": "honey",
+      "amount": 1,
+      "unit": "tablespoon",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 9160,
+      "aisle": "Produce",
+      "image": "lime-juice.png",
+      "consitency": "liquid",
+      "name": "lime juice",
+      "original": "1 tablespoon freshly squeezed lime juice",
+      "originalString": "1 tablespoon freshly squeezed lime juice",
+      "originalName": "freshly squeezed lime juice",
+      "amount": 1,
+      "unit": "tablespoon",
+      "meta": [
+        "freshly squeezed"
+      ],
+      "metaInformation": [
+        "freshly squeezed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 2064,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "mint.jpg",
+      "consitency": "solid",
+      "name": "mint",
+      "original": "A handful of freshly chopped mint",
+      "originalString": "A handful of freshly chopped mint",
+      "originalName": "A of freshly chopped mint",
+      "amount": 1,
+      "unit": "handful",
+      "meta": [
+        "chopped"
+      ],
+      "metaInformation": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "handful",
+          "unitLong": "handful"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "handful",
+          "unitLong": "handful"
+        }
+      }
+    },
+    {
+      "id": 9316,
+      "aisle": "Produce",
+      "image": "strawberries.png",
+      "consitency": "solid",
+      "name": "strawberries",
+      "original": "500 grams strawberries (hulled and quartered)",
+      "originalString": "500 grams strawberries (hulled and quartered)",
+      "originalName": "strawberries (hulled and quartered)",
+      "amount": 500,
+      "unit": "grams",
+      "meta": [
+        "hulled",
+        "quartered",
+        "( and )"
+      ],
+      "metaInformation": [
+        "hulled",
+        "quartered",
+        "( and )"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.102,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 500,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 9148,
+      "aisle": "Produce",
+      "image": "kiwi.png",
+      "consitency": "solid",
+      "name": "kiwis",
+      "original": "2 kiwis (peeled and cut into chunks)",
+      "originalString": "2 kiwis (peeled and cut into chunks)",
+      "originalName": "kiwis (peeled and cut into chunks)",
+      "amount": 2,
+      "unit": "",
+      "meta": [
+        "peeled",
+        "cut into chunks)"
+      ],
+      "metaInformation": [
+        "peeled",
+        "cut into chunks)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9266,
+      "aisle": "Produce",
+      "image": "pineapple.jpg",
+      "consitency": "solid",
+      "name": "pineapple",
+      "original": "1/2 fresh pineapple (sliced and cut into chunks)",
+      "originalString": "1/2 fresh pineapple (sliced and cut into chunks)",
+      "originalName": "fresh pineapple (sliced and cut into chunks)",
+      "amount": 0.5,
+      "unit": "",
+      "meta": [
+        "fresh",
+        "sliced",
+        "cut into chunks)"
+      ],
+      "metaInformation": [
+        "fresh",
+        "sliced",
+        "cut into chunks)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9184,
+      "aisle": "Produce",
+      "image": "honeydew.png",
+      "consitency": "solid",
+      "name": "honeydew melon",
+      "original": "1/2 honeydew melon (sliced and cut into chunks)",
+      "originalString": "1/2 honeydew melon (sliced and cut into chunks)",
+      "originalName": "honeydew melon (sliced and cut into chunks)",
+      "amount": 0.5,
+      "unit": "",
+      "meta": [
+        "sliced",
+        "cut into chunks)"
+      ],
+      "metaInformation": [
+        "sliced",
+        "cut into chunks)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9132,
+      "aisle": "Produce",
+      "image": "red-grapes.jpg",
+      "consitency": "solid",
+      "name": "grapes",
+      "original": "1/2 cup grapes",
+      "originalString": "1/2 cup grapes",
+      "originalName": "grapes",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 9050,
+      "aisle": "Produce",
+      "image": "blueberries.jpg",
+      "consitency": "solid",
+      "name": "blueberries",
+      "original": "1/2 cup blueberries",
+      "originalString": "1/2 cup blueberries",
+      "originalName": "blueberries",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 9286,
+      "aisle": "Produce",
+      "image": "pomegranate-seeds.jpg",
+      "consitency": "solid",
+      "name": "pomegranate seeds",
+      "original": "1/2 cup pomegranate seeds",
+      "originalString": "1/2 cup pomegranate seeds",
+      "originalName": "pomegranate seeds",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    }
+  ],
+  "id": 876469,
+  "title": "Honey Pineapple Rainbow Fruit Salad",
+  "readyInMinutes": 5,
+  "servings": 6,
+  "image": "https://spoonacular.com/recipeImages/876469-556x370.jpg",
+  "imageType": "jpg",
+  "cuisines": [],
+  "dishTypes": [
+    "side dish",
+    "antipasti",
+    "salad",
+    "starter",
+    "snack",
+    "appetizer",
+    "antipasto",
+    "hor d'oeuvre"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free",
+    "paleolithic",
+    "lacto ovo vegetarian",
+    "primal"
+  ],
+  "occasions": [],
+  "winePairing": {
+    "pairedWines": [
+      "chardonnay",
+      "gruener veltliner",
+      "sauvignon blanc"
+    ],
+    "pairingText": "Fruit Salad can be paired with Chardonnay, Gruener Veltliner, and Sauvignon Blanc. Sauvignon Blanc and Gruner Veltliner both have herby notes that complement salads with enough acid to match tart vinaigrettes, while a Chardonnay can be a good pick for creamy salad dressings. You could try NV Mindbender Chardonnay. Reviewers quite like it with a 4.4 out of 5 star rating and a price of about 12 dollars per bottle.",
+    "productMatches": [
+      {
+        "id": 428583,
+        "title": "NV Mindbender Chardonnay",
+        "description": "Lightly Oaked, the Mindbender Chardonnay is a sophisticated style of Chardonnay, that is full of the best elements of this classic grape varietal. The aromatics are complex and welcoming with floral and citrus tones mixed with hints of honeysuckle and butterscotch. The good percentage of oak aging brings a lovely vanilla note. The Mindbender Chardonnay is here to make you see Chardonnay in a new and innovative way. The Mindbender Chardonnay is a sophisticated style of Chardonnay, that is full of the best elements of this classic grape varietal. Visually it is golden straw in color. The aromatics are complex and welcoming with floral and citrus tones mixed with hints of honeysuckle and butterscotch. The well-rounded flavors carry the butterscotch throughout lending a smooth, creamy aspect while the citrus flavors bring freshness and brightness to the body. The good percentage of oak aging brings a lovely vanilla note. The finish is rounded out with a depth of ripe fruit flavors such as apricots, melons and peaches with a spritz of lime.",
+        "price": "$12.0",
+        "imageUrl": "https://spoonacular.com/productImages/428583-312x231.jpg",
+        "averageRating": 0.8800000000000001,
+        "ratingCount": 4,
+        "score": 0.8030769230769232,
+        "link": "https://www.amazon.com/Mindbender-California-Chardonnay-White-Wine/dp/B00GB87SJQ?tag=spoonacular-20"
+      }
+    ]
+  },
+  "instructions": "Instructions\n\nIn a mixing bowl, whisk together the pineapple juice, honey, lime juice and freshly chopped mint.\n\nAdd all of the fruit to the mixing bowl, and gently toss together until the the dressing coats all of the fruit nicely.\n\nServe immediately.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "In a mixing bowl, whisk together the pineapple juice, honey, lime juice and freshly chopped mint.",
+          "ingredients": [
+            {
+              "id": 9273,
+              "name": "pineapple juice",
+              "image": "pineapple-juice.jpg"
+            },
+            {
+              "id": 9160,
+              "name": "lime juice",
+              "image": "lime-juice.png"
+            },
+            {
+              "id": 19296,
+              "name": "honey",
+              "image": "honey.png"
+            },
+            {
+              "id": 2064,
+              "name": "mint",
+              "image": "mint.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 405907,
+              "name": "mixing bowl",
+              "image": "mixing-bowl.jpg"
+            },
+            {
+              "id": 404661,
+              "name": "whisk",
+              "image": "whisk.png"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Add all of the fruit to the mixing bowl, and gently toss together until the the dressing coats all of the fruit nicely.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 405907,
+              "name": "mixing bowl",
+              "image": "mixing-bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Serve immediately.",
+          "ingredients": [],
+          "equipment": []
+        }
+      ]
+    }
+  ]
+}

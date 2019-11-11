@@ -1,0 +1,104 @@
+{
+  "results": [
+    {
+      "id": 779351,
+      "title": "Red, White, and Blue Fruit Salad",
+      "readyInMinutes": 15,
+      "servings": 12,
+      "image": "red-white-and-blue-fruit-salad-779351.jpg",
+      "imageUrls": [
+        "red-white-and-blue-fruit-salad-779351.jpg"
+      ]
+    },
+    {
+      "id": 1082169,
+      "title": "Easy Fruit Salad",
+      "readyInMinutes": 15,
+      "servings": 18,
+      "image": "easy-fruit-salad-1082169.jpg",
+      "imageUrls": [
+        "easy-fruit-salad-1082169.jpg"
+      ]
+    },
+    {
+      "id": 988065,
+      "title": "How To Make Fruit Salad",
+      "readyInMinutes": 15,
+      "servings": 8,
+      "image": "how-to-make-fruit-salad-988065.jpg",
+      "imageUrls": [
+        "how-to-make-fruit-salad-988065.jpg"
+      ]
+    },
+    {
+      "id": 1116574,
+      "title": "Easy Fruit Salad",
+      "readyInMinutes": 25,
+      "servings": 16,
+      "image": "easy-fruit-salad-1116574.jpg",
+      "imageUrls": [
+        "easy-fruit-salad-1116574.jpg"
+      ]
+    },
+    {
+      "id": 638190,
+      "title": "Chicken Medallions And Fruit Salad",
+      "readyInMinutes": 45,
+      "servings": 12,
+      "image": "Chicken-Medallions-And-Fruit-Salad-638190.jpg",
+      "imageUrls": [
+        "Chicken-Medallions-And-Fruit-Salad-638190.jpg"
+      ]
+    },
+    {
+      "id": 1100051,
+      "title": "Berry Fruit Salad with Mangoes",
+      "readyInMinutes": 10,
+      "servings": 12,
+      "image": "berry-fruit-salad-with-mangoes-1100051.jpg",
+      "imageUrls": [
+        "berry-fruit-salad-with-mangoes-1100051.jpg"
+      ]
+    },
+    {
+      "id": 1110087,
+      "title": "Honey Lime Rainbow Fruit Salad",
+      "readyInMinutes": 20,
+      "servings": 10,
+      "image": "honey-lime-rainbow-fruit-salad-1110087.jpg",
+      "imageUrls": [
+        "honey-lime-rainbow-fruit-salad-1110087.jpg",
+        "honey-lime-rainbow-fruit-salad-1110087.jpg.jpg",
+        "honey-lime-rainbow-fruit-salad-1110087.jpg.jpg.jpg",
+        "honey-lime-rainbow-fruit-salad-1110087.jpg.jpg.jpg.jpg"
+      ]
+    },
+    {
+      "id": 1128234,
+      "title": "Fruit Salad Lemon Vanilla Glaze",
+      "readyInMinutes": 275,
+      "servings": 14,
+      "image": "fruit-salad-lemon-vanilla-glaze-1128234.jpg",
+      "imageUrls": [
+        "fruit-salad-lemon-vanilla-glaze-1128234.jpg"
+      ]
+    },
+    {
+      "id": 876469,
+      "title": "Honey Pineapple Rainbow Fruit Salad",
+      "readyInMinutes": 5,
+      "servings": 6,
+      "image": "honey-pineapple-rainbow-fruit-salad-876469.jpg",
+      "imageUrls": [
+        "honey-pineapple-rainbow-fruit-salad-876469.jpg"
+      ]
+    }
+  ],
+  "baseUri": "https://spoonacular.com/recipeImages/",
+  "offset": 0,
+  "number": 10,
+  "totalResults": 9,
+  "processingTimeMs": 75,
+  "expires": 1573346979797,
+  "isStale": false
+}
