@@ -1,6 +1,7 @@
 # ISpyRecipes
 
-A react-native app that allows you to get recipe suggestions by snapping a 
+This is a small sample application that I wrote to explore React native development.
+The app allows you to get recipe suggestions by snapping a 
 photo of food with your camera. It is currently only built/tested under Android,
 but in theory should run on iOS also.
 
